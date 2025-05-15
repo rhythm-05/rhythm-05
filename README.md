@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhythmgaba&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhythmgaba&theme=radical" width="48%" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 - 📬 [rhythmgaba@gmail.com](mailto:rhythmgaba@gmail.com)  
