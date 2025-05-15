@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rhythm Gaba 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Data+Enthusiast;Human-Centered+Tech+Builder;Cognitive-Aware+Systems+Explorer;Pre-final+Year+@+NIT+Jalandhar;Always+Learning+%F0%9F%8E%93+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Data+Analysist;Human-Centered+Tech+Builder;Cognitive-Aware+Systems+Explorer;Pre-final+Year+@+NIT+Jalandhar;Always+Learning+%F0%9F%8E%93+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
