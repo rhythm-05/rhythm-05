@@ -28,7 +28,7 @@
 
 ### 🌐 Let's Connect
 
-- 📬 [rhythmgaba@gmail.com](mailto:rhythmgaba@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rhythmgaba)  
-- 🌐 [Portfolio](https://bento.me/rhythmgaba)
+- 📬 [rhythmgaba@gmail.com](mailto:rhythmgaba511@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rhythmgaba05/)  
+- 🌐 [Portfolio](https://rhythmgabaportfolio.carrd.co/)
 
